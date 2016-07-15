@@ -1,4 +1,4 @@
-package com.isa.testmodule;
+package com.isa.pubproject;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
