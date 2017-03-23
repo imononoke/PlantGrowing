@@ -1,4 +1,4 @@
-package com.isa.testmodule;
+package com.isa.growing;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
